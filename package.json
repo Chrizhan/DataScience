@@ -1,0 +1,21 @@
+{
+  "name": "programming-for-data-science-and-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API.js",
+  "start": "node API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/API.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^18.x",
+    "react-dom": "^18.x",
+    "react-scripts": "5.x"
+  }
+}
